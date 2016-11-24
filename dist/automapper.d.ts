@@ -607,3 +607,5 @@ declare module AutoMapperJs {
 }
 
 declare var automapper: AutoMapperJs.AutoMapper;
+
+export = automapper;
